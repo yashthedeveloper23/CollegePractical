@@ -1,6 +1,11 @@
-# To store all the files of college practical in the third semester
-## 1. Data Structure Laboratory
-## 2. Computer Graphics and Object Oriented Programming
- 
+# Store all the college files in this repo
+
+## this Repo contains the following files
+
+## 1. DataStructureLaboratory Directory
+
+## 2. Computer Graphics Directory
+
+## 3. Object Oriented Programming Directory
 
 
