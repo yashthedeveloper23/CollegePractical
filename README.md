@@ -1,2 +1,3 @@
-# CollegePractical
-to store all the practical files of college
+# To store all the files of college practical
+
+
